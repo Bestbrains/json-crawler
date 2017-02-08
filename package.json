@@ -1,6 +1,6 @@
 {
   "name": "json-data-crawler",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A tool that'll attempt to crawl a json structure to figure out where timeseries or other graph-like data is located.",
   "main": "data-crawler.js",
   "scripts": {
