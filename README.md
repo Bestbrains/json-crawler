@@ -1,4 +1,5 @@
 # JSON Crawler
+[![Build Status](https://travis-ci.org/Bestbrains/json-crawler.svg?branch=master)](https://travis-ci.org/Bestbrains/json-crawler.svg?branch=master)
 
 A small tool (WIP), that attempts to determine where data is located in a json structure, given a timeseries-like format or other forms of categorized series data.
 
