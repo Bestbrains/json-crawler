@@ -1,0 +1,22 @@
+{
+  "name": "json-data-crawler",
+  "version": "1.0.0",
+  "description": "Designed to help you visualize and debug data output from json endpoints.",
+  "main": "data-crawler.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "keywords": [
+    "c3",
+    "d3",
+    "chart",
+    "debug",
+    "json",
+    "data"
+  ],
+  "author": "KBroloes",
+  "license": "MIT",
+  "devDependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
