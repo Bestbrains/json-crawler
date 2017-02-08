@@ -1,7 +1,7 @@
 {
   "name": "json-data-crawler",
   "version": "1.0.0",
-  "description": "Designed to help you visualize and debug data output from json endpoints.",
+  "description": "A tool that'll attempt to crawl a json structure to figure out where timeseries or other graph-like data is located.",
   "main": "data-crawler.js",
   "scripts": {
     "test": "jasmine"
