@@ -21,7 +21,6 @@
     }
 
     crawl(crawlable, '', properties)
-    // console.log("props", properties)
     if(propertyComplete(properties)) {
       return {
         type: properties.axis.type,
@@ -84,7 +83,6 @@
   }
 
   function isArray(obj) {
-    //TODO: Improve down here. Strings are arrays Dx
     return Array.isArray(obj)
   }
 
